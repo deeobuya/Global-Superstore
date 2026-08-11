@@ -28,4 +28,4 @@ Global Superstore Dataset from Kaggle.
 - Business analysis — KPI definition, trend analysis, segment/category/regional profitability analysis
 - Communication — translating analytical findings into business insights and recommendations for a non-technical executive audience
 
-Full write-up: see /reports for the Business Intelligence Overview Report and Executive Summary Report.
+For the full write up write-up, see the Executive Summary Report.
