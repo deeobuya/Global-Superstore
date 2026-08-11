@@ -12,7 +12,7 @@ What should management implement to improve performance?
 # Dataset
 Global Superstore Dataset — 51,290 order-line transactions (2011–2014) across 7 markets, 3 customer segments, and 3 product categories.
 
-Dashboard Preview
+!(Dashboard Preview)[superstore.jpg]
 
 # Key Insights
 - Sales grew 90% from 2011 to 2014 ($2.26M → $4.30M); profit grew even faster (+103%)
