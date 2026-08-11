@@ -1,16 +1,16 @@
 # Global-Superstore Analysis
-A national retail company needed a way for senior management to monitor sales performance, profitability, customer behavior, and regional performance without relying on manual reporting. This project delivers an interactive Power BI dashboard that turns raw transactional data into actionable insight, answering seven core business questions:
+A national retail company needed a way for senior management to monitor sales performance, profitability, customer behavior, and regional performance without relying on manual reporting. 
 
 ![Dashboard Preview](superstore.jpg)
 
-
-What is the overall sales performance of the company?
-Which regions generate the highest sales and profit?
-Which customer segments contribute the most revenue?
-Which product categories perform best?
-Which products are the most profitable?
-What trends can be observed over time?
-What should management implement to improve performance?
+This project delivers an interactive Power BI dashboard that turns raw transactional data into actionable insight, answering seven core business questions:
+- What is the overall sales performance of the company?
+- Which regions generate the highest sales and profit?
+- Which customer segments contribute the most revenue?
+- Which product categories perform best?
+- Which products are the most profitable?
+- What trends can be observed over time?
+- What should management implement to improve performance?
 
 # Dataset
 Global Superstore Dataset from Kaggle.
