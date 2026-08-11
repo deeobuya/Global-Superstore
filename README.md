@@ -1,5 +1,5 @@
 # Global-Superstore Analysis
-A national retail company needed a way for senior management to monitor sales performance, profitability, customer behavior, and regional performance without relying on manual reporting. 
+A retail company needed a way for senior management to monitor sales performance, profitability, customer behavior, and regional performance without relying on manual reporting. 
 
 ![Dashboard Preview](superstore.jpg)
 
